@@ -1,0 +1,6 @@
+Danni said branching is...
+a command in git to make changes from a version previously saved from a repository.
+
+Branching allows developers to make changes in separate units, creating a safe and controlled changes environment.
+Branching also allows developers to work separately from the main project or code, this ensures that changes could be reviewed and evaluated before making it
+to production.
