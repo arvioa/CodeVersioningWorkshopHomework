@@ -6,3 +6,4 @@ Merging serves to merge a branch that is developers want to make into the main r
 Commit 1 
 Commit 2
 Commit 3
+Commit 4
