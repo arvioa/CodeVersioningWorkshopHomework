@@ -12,8 +12,12 @@ Commit 4
 Commit 5
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Command line for branching:
 git branch <branch-name>
 =======
 Branching could be done by the command line git commit after adding in a file. You can also add messages using command -m.
 >>>>>>> edfb393 (Added how to branch)
+=======
+Branching could be done by the command line git commit after adding in a file. You can also add messages using command -m <message>
+>>>>>>> experiment
