@@ -4,3 +4,4 @@ a command line in git to merge a reviewed and branched repository version.
 Merging serves to merge a branch that is developers want to make into the main repository.
 
 Commit 1 
+Commit 2
