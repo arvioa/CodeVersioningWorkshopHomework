@@ -6,3 +6,4 @@ Branching also allows developers to work separately from the main project or cod
 to production.
 
 Commit 1
+Commit 2
